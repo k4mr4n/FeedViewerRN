@@ -1,5 +1,4 @@
 import { put } from 'redux-saga/effects'
-// import sagaCall from './saga_call'
 import RssActions from '../actions/rss.actions'
 
 export function* completed () {
